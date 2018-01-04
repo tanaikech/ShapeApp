@@ -64,7 +64,7 @@ If you have any questions and commissions for me, feel free to tell me.
 
 <a name="Update_History"></a>
 # Update History
-* v1.0.0 (January 3, 2018)
+* v1.0.0 (January 4, 2018)
 
     1. Initial release.
         - It starts to wait for publishing this add-on.
