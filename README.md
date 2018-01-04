@@ -33,6 +33,8 @@ Have you ever thought about creating and updating shapes on Google Slides by inp
 1. Input "ShapeApp" in "Search add-ons".
 1. Install ShapeApp.
 
+**Now this add-on was submitted to Google, when this is published, the URL of add-on will be displayed.**
+
 # Usage
 You can also see the usage from the above demonstration movie.
 
