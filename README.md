@@ -26,14 +26,20 @@ Have you ever thought about creating and updating shapes on Google Slides by inp
     - Users can arrange selected shapes to lateral and vertical direction.
     - If "Open at edge" is selected, the shapes are not placed at both edges of the Slide. If "Close at edge" is selected, the shapes are also placed at both edges of the Slide.
 
+**[At January 6th, 2018, this was published as an add-on application.](https://chrome.google.com/webstore/detail/shapeapp/nmbimbgfafgmkhioolneofjchigbpkhf)**
+
 # How to install
-1. Create new spreadsheet.
+## chrome.google.com/webstore
+You can install this add-on at **[chrome.google.com/webstore](https://chrome.google.com/webstore/detail/shapeapp/nmbimbgfafgmkhioolneofjchigbpkhf)**. Of course, it's free.
+
+## On your slide
+Also you can install on your Slides.
+
+1. Create new Google Slide.
 1. Click "Add-ons" at menu bar.
 1. Select "Get add-ons".
 1. Input "ShapeApp" in "Search add-ons".
 1. Install ShapeApp.
-
-**Now this add-on was submitted to Google, when this is published, the URL of add-on will be displayed.**
 
 # Usage
 You can also see the usage from the above demonstration movie.
@@ -50,7 +56,7 @@ You can also see the usage from the above demonstration movie.
 
 -----
 
-# [Privacy Policy](https://tanaikebox.github.io/2017/12/13/privacy-policy/)
+# [Privacy Policy](https://tanaikebox.github.io/2018/01/03/privacy-policy/)
 
 <a name="Licence"></a>
 # Licence

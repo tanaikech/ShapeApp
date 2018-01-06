@@ -54,7 +54,8 @@
         <form>
             <ul>
                 <li>
-                    <input type="button" value="View in store" onClick='window.open("https://chrome.google.com/webstore/detail/shapeapp/nmbimbgfafgmkhioolneofjchigbpkhf")'>
+                    <!-- Here, I will put the URL of store.-->
+                    <input type="button" value="View in store" onClick='window.open("https://chrome.google.com/webstore/detail/shapeapp/#####?utm_source=permalink")'>
                 </li>
                 <li>
                     <input type="button" value="Close" onClick="google.script.host.close()">
