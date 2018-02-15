@@ -28,6 +28,8 @@ Have you ever thought about creating and updating shapes on Google Slides by inp
 
 **[At January 6th, 2018, this was published as an add-on application.](https://chrome.google.com/webstore/detail/shapeapp/nmbimbgfafgmkhioolneofjchigbpkhf)**
 
+**[At February 15th, 2018, this add-on was featured as one of "4 useful add-ons launched last month".](https://sites.google.com/site/scriptsexamples/home/announcements/new-add-ons-january-2018)**
+
 # How to install
 ## chrome.google.com/webstore
 You can install this add-on at **[chrome.google.com/webstore](https://chrome.google.com/webstore/detail/shapeapp/nmbimbgfafgmkhioolneofjchigbpkhf)**. Of course, it's free.
